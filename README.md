@@ -20,3 +20,8 @@ Add GloVe embeddings ```glove.txt``` to ```embeddings/```.
 
 Embedding dimensions can be adjusted in ```util/__init__.py``` under 
 ```embeddings_dim```.
+
+## Running the Code
+```
+python main.py
+```
